@@ -1,10 +1,11 @@
 ---
-title: This is my third post.
+title: Learn How APIs Work
 description: This is a post on My Blog about apis.
-date: 2022-02-27
+date: 2022-02-26
 tags:
-  - second tag
-  - posts with two tags
+  - beginner
+  - tutorial
+  - api
 layout: layouts/post.njk
 ---
 

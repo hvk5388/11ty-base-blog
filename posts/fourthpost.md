@@ -1,8 +1,11 @@
 ---
-title: This is my fourth post.
+title: How to Install Docker on WIndows OS
 description: This is a post on My Blog about touchpoints and circling wagons.
 date: 2022-02-27
-tags: second tag
+tags:
+  - beginner
+  - tutorial
+  - docker
 layout: layouts/post.njk
 ---
 
