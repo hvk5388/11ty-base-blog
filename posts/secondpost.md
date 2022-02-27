@@ -1,9 +1,11 @@
 ---
-title: This is my second post.
+title: How to create a GitHub Repostiory
 description: This is a post on My Blog about creating github repositories.
-date: 2022-02-27
+date: 2022-02-25
 tags:
-  - number 2
+  - beginner
+  - tutorial
+  - github
 layout: layouts/post.njk
 ---
 

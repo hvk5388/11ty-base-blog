@@ -1,9 +1,11 @@
 ---
-title: This is my first post.
+title: Create A DockerFile
 description: This is a post on My Blog about creating dockerfiles.
-date: 2022-02-27
+date: 2022-02-24
 tags:
-  - number 1
+  - beginner
+  - tutorial
+  - docker
 layout: layouts/post.njk
 ---
 
